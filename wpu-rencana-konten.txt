@@ -1,7 +1,8 @@
-WPU RESOLUSI
-- Konsisten untuk membuat konten 2x seminggu
-- Membuat platform untuk pengelolaan video
-- Membuat forum diskusi
-- kolaborasi dengan lebih banyak expert
-- membuat vlog  
+RENCANA KONTEN WPU
 
+- Java script 
+  * ES6
+  * FrameWork Javascript
+- PHP Frameworks
+- Interview
+- Vlogs
